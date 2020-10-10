@@ -24,11 +24,28 @@ Another form of transmission is through radio frequencies. Thus, sending bits fr
 
 The internet is a network of networks that link billions of devices with one another. The internet a design philosophy expressed in a set of protocols.  A protocol is a well-known set of rules and standards used to communicate between machines. Having protocols set in places allows devices to connect with one another without any trouble.  Devices on the internet all have their own unique addresses. An address on the internet is a number. Sort of similar to one’s home address for mailing. Each address is unique to each device on a network. 
 
+### IP Addresses 
 The addressing system for computers on the internet is one of the most important protocols used in internet communication. This protocol is known as the Internet Protocol, simply known as IP. A computer’s address is known as an IP Address. Visiting a website is just another computer asking for information. Your computer talks to the receiving computer asking it for information, while also sending back the origin address so it can know where to send a response. 
 
 An IP address is organized in a hierarchy, each part of the IP is representing in bits. In an IP the first set of numbers usually represents the country and network of a device. What follows next in the set of numbers is the region, subnetworks and the address of the actual device. This version of addressing is IPv4 which was provides more than four billion unique addresses. With more people connecting to the internet, a new way of addressing was created. IPv6 came along and it provides 340 undecillion unique addresses, meaning that the it will take a while for addresses to meet its peak. 
 
+### DNS
 When users are using the internet, most users are not seeing the IP address itself. What users are seeing is a domain name. A system called DNS, short for Domain Name system. Associates names with corresponding addresses. Computers use DNS to look up the destination of a website one will want to travel to. 
 
 
-### The Internet- Packets, Routing and Reliability
+##The Internet- Packets, Routing and Reliability
+
+### Packets
+
+Information on the internet goes from computer to another in a packet of information. The paths are susceptible to change its route to another computer depending on congestion of network. Just like sending packages through the mail, digital information can be sent using IP packets. These packets have limits. Which is why quite often IP packets are transmitted through broken segments, taking its own routes until they have reached their destination. Once each segment of packets has reached its destination, they can be reassembled and ready for the receiving node to be used. 
+
+
+
+### Routing 
+	
+When transmitting data over the internet, the best route for data to travel is not always the most direct. Having a plethora of paths as an option makes a network fault tolerant. Meaning that a network is allowed to continuously send packets even if a route on the network has been distributed. All of this to say is the basis of the key principle, reliability. 
+
+### Reliability
+
+A reliable protocol is a communication protocol that notifies the sender whether or not the delivery of data to intended recipients was successful. 
+

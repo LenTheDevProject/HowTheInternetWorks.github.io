@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0abba35-3d07-4593-b2ca-87ba1df25c78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/IMG_0446.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/iconfinder-connectedglobe-4417105_116615.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pexels-magda-ehlers-1054713.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pexels-min-an-1629212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pexels-photo-1779487.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602274517129</updated>
-      <workItem from="1602274518241" duration="5733000" />
+      <workItem from="1602274518241" duration="14267000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Add Bootstrap Template To Pages&quot;">
       <created>1602274802976</created>
@@ -102,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602296923242</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Feature: &quot;Shortcut Icon &quot;&#10;&#10;Task: &quot;included shortcut icon&quot;">
+      <created>1602297578922</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602297578922</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,24 +130,29 @@
     <MESSAGE value="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Updated index page 2&quot;" />
     <MESSAGE value="Feature: &quot;Nav Bar&quot;&#10;&#10;Task: &quot;Updated Nav links&quot;" />
     <MESSAGE value="Feature: &quot;Added Five New Pages&quot;&#10;&#10;Task: &quot;Updated Nav And Landing Page&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: &quot;Added Five New Pages&quot;&#10;&#10;Task: &quot;Updated Nav And Landing Page&quot;" />
+    <MESSAGE value="Feature: &quot;Shortcut Icon &quot;&#10;&#10;Task: &quot;included shortcut icon&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: &quot;Shortcut Icon &quot;&#10;&#10;Task: &quot;included shortcut icon&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1207" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602295803229">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1207" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1602295803229" />
-    <state x="1218" y="17" key="CommitChangelistDialog2" timestamp="1602296923042">
+    <state x="1218" y="17" key="CommitChangelistDialog2" timestamp="1602297578747">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1218" y="17" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1602296923042" />
+    <state x="1218" y="17" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1602297578747" />
     <state x="602" y="282" key="IDE.errors.dialog" timestamp="1602296914882">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="602" y="282" key="IDE.errors.dialog/0.0.2560.1080@0.0.2560.1080" timestamp="1602296914882" />
-    <state x="1259" y="264" key="Vcs.Push.Dialog.v2" timestamp="1602297038223">
+    <state x="1259" y="264" key="Vcs.Push.Dialog.v2" timestamp="1602297586997">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1259" y="264" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1602297038223" />
+    <state x="1259" y="264" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1602297586997" />
+    <state x="1525" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1602302993618">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1525" y="239" width="672" height="678" key="search.everywhere.popup/0.0.2560.1080@0.0.2560.1080" timestamp="1602302993618" />
   </component>
 </project>
