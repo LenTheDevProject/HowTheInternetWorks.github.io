@@ -2,20 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0abba35-3d07-4593-b2ca-87ba1df25c78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HowTheInternetWorks.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/christopher-gower-vjMgqUkS8q8-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/joshua-sortino-LqKhnDzSF-8-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lanju-fotografie-muy0ywmdsPY-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/laura-ockel-UzNVV_u6qkc-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/luca-bravo-YoelVcKWmws-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/thomas-jensen-h3vT1Kp0FxA-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tim-bennett-OwvRB-M3GwE-unsplash.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602274517129</updated>
-      <workItem from="1602274518241" duration="3215000" />
+      <workItem from="1602274518241" duration="3515000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Add Bootstrap Template To Pages&quot;">
       <created>1602274802976</created>
@@ -86,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602294861377</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Updated index page 2&quot;">
+      <created>1602294942381</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602294942381</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,16 +89,17 @@
     <MESSAGE value="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Add Bootstrap Template To Pages&quot;" />
     <MESSAGE value="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Update index page&quot;" />
     <MESSAGE value="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Updated index page&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Updated index page&quot;" />
+    <MESSAGE value="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Updated index page 2&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Updated index page 2&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1218" y="17" key="CommitChangelistDialog2" timestamp="1602294861019">
+    <state x="1218" y="17" key="CommitChangelistDialog2" timestamp="1602294942057">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1218" y="17" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1602294861019" />
-    <state x="1259" y="264" key="Vcs.Push.Dialog.v2" timestamp="1602294862684">
+    <state x="1218" y="17" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1602294942057" />
+    <state x="1259" y="264" key="Vcs.Push.Dialog.v2" timestamp="1602294949744">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1259" y="264" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1602294862684" />
+    <state x="1259" y="264" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1602294949744" />
   </component>
 </project>
