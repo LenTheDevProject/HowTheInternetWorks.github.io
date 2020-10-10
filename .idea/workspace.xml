@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0abba35-3d07-4593-b2ca-87ba1df25c78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/light-bulb-clipart-transparent-9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pexels-daniel-frese-890065.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pexels-magda-ehlers-1279813.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DomainName.html" beforeDir="false" afterPath="$PROJECT_DIR$/DomainName.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HyperText.html" beforeDir="false" afterPath="$PROJECT_DIR$/HyperText.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IP.html" beforeDir="false" afterPath="$PROJECT_DIR$/IP.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TransferProtocol.html" beforeDir="false" afterPath="$PROJECT_DIR$/TransferProtocol.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3C.html" beforeDir="false" afterPath="$PROJECT_DIR$/W3C.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602274517129</updated>
-      <workItem from="1602274518241" duration="32852000" />
+      <workItem from="1602274518241" duration="33244000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Add Bootstrap Template To Pages&quot;">
       <created>1602274802976</created>
@@ -182,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602320378235</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Feature: &quot;Web Pages Complete&quot;&#10;&#10;Task: &quot;Add Content To Web Pages &quot;">
+      <created>1602326987962</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1602326987962</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,25 +197,26 @@
     <MESSAGE value="Feature: &quot;Included Notes Branch&quot;&#10;&#10;Task: &quot;Add Notes MD File&quot;" />
     <MESSAGE value="Feature: &quot;Update Web Pages&quot;&#10;&#10;Task: &quot;Made pages Responsive&quot;" />
     <MESSAGE value="Feature: &quot;Nav Links&quot;&#10;&#10;Task: &quot;Update Nav Links&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: &quot;Nav Links&quot;&#10;&#10;Task: &quot;Update Nav Links&quot;" />
+    <MESSAGE value="Feature: &quot;Web Pages Complete&quot;&#10;&#10;Task: &quot;Add Content To Web Pages &quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: &quot;Web Pages Complete&quot;&#10;&#10;Task: &quot;Add Content To Web Pages &quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1207" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602309966482">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1207" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1602309966482" />
-    <state x="1218" y="17" key="CommitChangelistDialog2" timestamp="1602320378103">
+    <state x="1218" y="17" key="CommitChangelistDialog2" timestamp="1602326987735">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1218" y="17" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1602320378103" />
+    <state x="1218" y="17" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1602326987735" />
     <state x="602" y="282" key="IDE.errors.dialog" timestamp="1602296914882">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="602" y="282" key="IDE.errors.dialog/0.0.2560.1080@0.0.2560.1080" timestamp="1602296914882" />
-    <state x="1259" y="264" key="Vcs.Push.Dialog.v2" timestamp="1602320383887">
+    <state x="1259" y="264" key="Vcs.Push.Dialog.v2" timestamp="1602326989380">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1259" y="264" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1602320383887" />
+    <state x="1259" y="264" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1602326989380" />
     <state x="1462" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602320230180">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
