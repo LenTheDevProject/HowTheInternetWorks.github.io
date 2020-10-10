@@ -52,3 +52,28 @@ A reliable protocol is a communication protocol that notifies the sender whether
 ## The Internet - HTTP and HTML 
 
 
+How do computers across the world communicate with one another ? 
+
+### HTTP 
+
+A way we use computers to communicate with one another is through web browser. When we want to visit a website, typing the Uniform Resource Locator (URL) is a way we communicate to a server. Servers are usually spread throughout far distances. 
+When we communicate with servers, the server will talk back to our device using http. HTTP simply stands for Hyper Text Transfer Protocol. It is the language used to communicate between web browsers and servers. 
+
+#CSS 
+
+CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media. CSS saves a lot of work. It can control the layout of multiple web pages all at once. External stylesheets are stored in CSS files. CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers.
+
+### HTML 
+
+Hyper Text Markup Language is the code used to tell a web browser how to make a page look. Html describes the structure of a web page semantically. This means that each element on a page must follow a hierarchy of elements and should flow depending on the content shown. People who create web pages are: Web Developers, UI Engineers, Business Owners and much more !
+
+### Resources to learn html 
+* https://www.w3schools.com/html/
+* https://youtu.be/UB1O30fR-EE
+* https://www.udemy.com/share/1013gGCEASdV9STHg=/
+
+
+## W3C 
+
+
+When using the internet, we want to assure that everyone is able to use it no matter their background. Making the web more accessible for people to use. An organization such as the World Wide Web Consortium is an international community where people who in the industry work together to developer web standards. Web standards help to standardize the way in which a website can interact with assistive technologies. Meaning that browser makers and web developers can incorporate instructions into their pages which can be interpreted by assistive technologies to maintain a common (or sometimes better) end-user experience.
