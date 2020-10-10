@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0abba35-3d07-4593-b2ca-87ba1df25c78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/daniel-von-appen-Nay_fRcp87g-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/neven-krcmarek-V4EOZj7g1gw-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pexels-brett-sayles-2881232.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pexels-fauxels-3182773.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/steve-johnson-hokONTrHIAQ-unsplash.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTP.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/W3C.html" beforeDir="false" afterPath="$PROJECT_DIR$/W3C.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +14,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Bootstrap" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602274517129</updated>
-      <workItem from="1602274518241" duration="24445000" />
+      <workItem from="1602274518241" duration="25172000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Add Bootstrap Template To Pages&quot;">
       <created>1602274802976</created>
@@ -137,7 +131,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602306522901</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Feature: &quot;Included Notes Branch&quot;&#10;&#10;Task: &quot;Add Notes MD File&quot;">
+      <created>1602318496900</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1602318496901</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Feature: &quot;Update Web Pages&quot;&#10;&#10;Task: &quot;Made pages Responsive&quot;">
+      <created>1602318697089</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602318697089</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,25 +161,27 @@
     <MESSAGE value="Feature: &quot;Shortcut Icon &quot;&#10;&#10;Task: &quot;included shortcut icon&quot;" />
     <MESSAGE value="Feature: &quot;About Footer and information &quot;&#10;&#10;Task: &quot;Use Boostrap to Customize About Page&quot;" />
     <MESSAGE value="Feature: &quot;About Footer and information &quot;&#10;&#10;Task: &quot;Mobile View Change&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: &quot;About Footer and information &quot;&#10;&#10;Task: &quot;Mobile View Change&quot;" />
+    <MESSAGE value="Feature: &quot;Included Notes Branch&quot;&#10;&#10;Task: &quot;Add Notes MD File&quot;" />
+    <MESSAGE value="Feature: &quot;Update Web Pages&quot;&#10;&#10;Task: &quot;Made pages Responsive&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: &quot;Update Web Pages&quot;&#10;&#10;Task: &quot;Made pages Responsive&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1207" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602309966482">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1207" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1602309966482" />
-    <state x="1218" y="17" key="CommitChangelistDialog2" timestamp="1602306522764">
+    <state x="1218" y="17" key="CommitChangelistDialog2" timestamp="1602318696913">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1218" y="17" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1602306522764" />
+    <state x="1218" y="17" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1602318696913" />
     <state x="602" y="282" key="IDE.errors.dialog" timestamp="1602296914882">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="602" y="282" key="IDE.errors.dialog/0.0.2560.1080@0.0.2560.1080" timestamp="1602296914882" />
-    <state x="1259" y="264" key="Vcs.Push.Dialog.v2" timestamp="1602306528874">
+    <state x="1259" y="264" key="Vcs.Push.Dialog.v2" timestamp="1602318703407">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1259" y="264" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1602306528874" />
+    <state x="1259" y="264" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1602318703407" />
     <state x="1525" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1602309992818">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
