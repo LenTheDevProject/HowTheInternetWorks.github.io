@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0abba35-3d07-4593-b2ca-87ba1df25c78" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/TransferProtocol.html" beforeDir="false" afterPath="$PROJECT_DIR$/TransferProtocol.html" afterDir="false" />
-    </list>
+    <list default="true" id="e0abba35-3d07-4593-b2ca-87ba1df25c78" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602274517129</updated>
-      <workItem from="1602274518241" duration="33244000" />
+      <workItem from="1602274518241" duration="33661000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Add Bootstrap Template To Pages&quot;">
       <created>1602274802976</created>
@@ -178,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602326987962</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Feature: &quot;Web Pages Complete&quot;&#10;&#10;Task: &quot;Add Content To Web Pages &quot;">
+      <created>1602327314699</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1602327314699</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,18 +210,18 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1207" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1602309966482" />
-    <state x="1218" y="17" key="CommitChangelistDialog2" timestamp="1602326987735">
+    <state x="1218" y="17" key="CommitChangelistDialog2" timestamp="1602327314577">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1218" y="17" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1602326987735" />
+    <state x="1218" y="17" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1602327314577" />
     <state x="602" y="282" key="IDE.errors.dialog" timestamp="1602296914882">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="602" y="282" key="IDE.errors.dialog/0.0.2560.1080@0.0.2560.1080" timestamp="1602296914882" />
-    <state x="1259" y="264" key="Vcs.Push.Dialog.v2" timestamp="1602326989380">
+    <state x="1259" y="264" key="Vcs.Push.Dialog.v2" timestamp="1602327479113">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1259" y="264" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1602326989380" />
+    <state x="1259" y="264" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1602327479113" />
     <state x="1462" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602320230180">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
