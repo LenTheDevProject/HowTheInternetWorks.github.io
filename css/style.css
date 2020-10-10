@@ -71,19 +71,19 @@
     height: 100%;
     width: 100%;
     background-size: 100% 100%;
-    background: url("../html/img/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg") center;
+    background: url("../img/pexels-photo-2881229.jpeg") center;
 
 }
 #carouselExampleIndicators .carousel-inner .carousel-item:nth-child(2)
 {
     background-size:  100% 100%;
-    background: url("../html/img/christopher-gower-vjMgqUkS8q8-unsplash.jpg") center;
+    background: url("../img/pexels-pixabay-373543.jpg") center;
 }
 #carouselExampleIndicators .carousel-inner .carousel-item:nth-child(3)
 {
 
     background-size:  100% 100%;
-    background: url("../html/img/thomas-jensen-h3vT1Kp0FxA-unsplash.jpg") center;
+    background: url("../img/pexels-bich-tran-669996.jpg") center;
 }
 
 #carouselExampleIndicators .carousel-inner .carousel-item:nth-child(4)
@@ -91,7 +91,7 @@
 
     width: 100%;
     background-size:  100% 100%;
-    background: url("../html/img/luca-bravo-YoelVcKWmws-unsplash.jpg") center;
+    background: url("../img/pexels-josh-sorenson-1714208.jpg") center;
 }
 
 #carouselExampleIndicators .carousel-inner .carousel-item .info

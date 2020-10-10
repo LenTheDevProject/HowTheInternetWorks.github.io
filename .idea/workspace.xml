@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0abba35-3d07-4593-b2ca-87ba1df25c78" name="Default Changelist" comment="">
+    <list default="true" id="e0abba35-3d07-4593-b2ca-87ba1df25c78" name="Default Changelist" comment="Feature: &quot;Nav Bar&quot;&#10;&#10;Task: &quot;Updated Nav links&quot;">
+      <change afterPath="$PROJECT_DIR$/img/pexels-bich-tran-669996.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pexels-photo-2881229.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pexels-pixabay-373543.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/christopher-gower-vjMgqUkS8q8-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/joshua-sortino-LqKhnDzSF-8-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/lanju-fotografie-muy0ywmdsPY-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/laura-ockel-UzNVV_u6qkc-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/luca-bravo-YoelVcKWmws-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/thomas-jensen-h3vT1Kp0FxA-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tim-bennett-OwvRB-M3GwE-unsplash.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +43,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -42,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602274517129</updated>
-      <workItem from="1602274518241" duration="3515000" />
+      <workItem from="1602274518241" duration="4737000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Add Bootstrap Template To Pages&quot;">
       <created>1602274802976</created>
@@ -79,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602294942381</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Feature: &quot;Nav Bar&quot;&#10;&#10;Task: &quot;Updated Nav links&quot;">
+      <created>1602295360055</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602295360055</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,16 +111,21 @@
     <MESSAGE value="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Update index page&quot;" />
     <MESSAGE value="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Updated index page&quot;" />
     <MESSAGE value="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Updated index page 2&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Updated index page 2&quot;" />
+    <MESSAGE value="Feature: &quot;Nav Bar&quot;&#10;&#10;Task: &quot;Updated Nav links&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: &quot;Nav Bar&quot;&#10;&#10;Task: &quot;Updated Nav links&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1218" y="17" key="CommitChangelistDialog2" timestamp="1602294942057">
+    <state x="1207" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602295803229">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1218" y="17" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1602294942057" />
-    <state x="1259" y="264" key="Vcs.Push.Dialog.v2" timestamp="1602294949744">
+    <state x="1207" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1602295803229" />
+    <state x="1218" y="17" key="CommitChangelistDialog2" timestamp="1602295451865">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1259" y="264" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1602294949744" />
+    <state x="1218" y="17" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1602295451865" />
+    <state x="1259" y="264" key="Vcs.Push.Dialog.v2" timestamp="1602295361229">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1259" y="264" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1602295361229" />
   </component>
 </project>
