@@ -125,3 +125,41 @@
     font-size: 20px;
     font-weight: 500;
 }
+
+.jumbotron {
+    color: white;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/pexels-min-an-1629212.jpg");
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    font-size: 2em;
+}
+
+.media img
+{
+    height: 150px;
+}
+
+
+/* Footer */
+
+footer
+{
+    background: #222;
+    color: white;
+    padding-top: 50px;
+    margin-top: 50px;
+}
+
+footer .container
+{
+    margin-top: 30px;
+}
+
+footer ul li
+{
+    list-style-type: none;
+}
