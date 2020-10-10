@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0abba35-3d07-4593-b2ca-87ba1df25c78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/HowTheInternetWorks.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/christopher-gower-vjMgqUkS8q8-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/joshua-sortino-LqKhnDzSF-8-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lanju-fotografie-muy0ywmdsPY-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/laura-ockel-UzNVV_u6qkc-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/luca-bravo-YoelVcKWmws-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thomas-jensen-h3vT1Kp0FxA-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tim-bennett-OwvRB-M3GwE-unsplash.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ieiZtEZpE6ZIyogoM4DomzeK0h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0abba35-3d07-4593-b2ca-87ba1df25c78" name="Default Changelist" comment="" />
+      <created>1602274517129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602274517129</updated>
+      <workItem from="1602274518241" duration="3215000" />
+    </task>
+    <task id="LOCAL-00001" summary="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Add Bootstrap Template To Pages&quot;">
+      <created>1602274802976</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602274802976</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Add Bootstrap Template To Pages&quot;">
+      <created>1602275411969</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602275411969</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Update index page&quot;">
+      <created>1602293793544</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602293793544</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Updated index page&quot;">
+      <created>1602294861377</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602294861377</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Add Bootstrap Template To Pages&quot;" />
+    <MESSAGE value="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Update index page&quot;" />
+    <MESSAGE value="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Updated index page&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: &quot;About Me and Index Pages&quot;&#10;&#10;Task: &quot;Updated index page&quot;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1218" y="17" key="CommitChangelistDialog2" timestamp="1602294861019">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1218" y="17" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1602294861019" />
+    <state x="1259" y="264" key="Vcs.Push.Dialog.v2" timestamp="1602294862684">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1259" y="264" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1602294862684" />
+  </component>
+</project>
